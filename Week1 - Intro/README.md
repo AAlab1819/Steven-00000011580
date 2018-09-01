@@ -6,7 +6,7 @@
 
 http://codeforces.com/contest/912/submission/42328919
 
-
+<br>
 <p align="center">854 A – Fraction</p>
 
  <p align="justify">
@@ -15,7 +15,7 @@ In short, the input is the sum of the both output, but the first output must be 
 
 http://codeforces.com/contest/854/submission/42330074
 
-
+<br>
 <p align="center">988 A – Diverse Team</p>
 
  <p align="justify">
@@ -24,5 +24,7 @@ This is by far the most confusing problem from the three, since I am not really 
 
 http://codeforces.com/contest/988/submission/42334085
 
-
+<br>
+ <p align="justify">
 Note: I am not to pro at coding. I also wasted half day making all of this code. Whatever the case, I have tried my best, though.
+</p>
