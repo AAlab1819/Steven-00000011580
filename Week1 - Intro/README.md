@@ -27,7 +27,7 @@ http://codeforces.com/contest/854/submission/42330074
 <p align="center">988 A – Diverse Team</p>
 
  <p align="justify">
-This is by far the most confusing problem from the three, since I am not really sure what it the output means. From my point of view, you want to know which student rating is distinct to one another, in what order. I use for function to fill the array “int rating [numStudent]”, and store the output in array “int order[numGroup]”. I try to compare each array’s element with if function, so the location of difference element is found (this is for the output) and stored it in an array.
+This is by far the most confusing problem from the three, since I am not really sure what it the output means. From my point of view, you want to know which student rating is distinct to one another, in what order. I use 'for' function to fill the array “int rating [numStudent]”, and store the output in array “int order[numGroup]”. I try to compare each array’s element with 'if' function, so the location of difference element is found (this is for the output) and stored it in an array.
 </p>
 
 Probelm:
