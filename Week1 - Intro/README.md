@@ -26,5 +26,6 @@ http://codeforces.com/contest/988/submission/42334085
 
 <br>
  <p align="justify">
-Note: I am not to pro at coding. I also wasted half day making all of this code. Whatever the case, I have tried my best, though.
+Note: I am not to pro at coding. I also wasted half day making all of this code. Whatever the case, I have tried my best, though. Also:
+https://www.youtube.com/watch?v=yD2FSwTy2lw
 </p>
