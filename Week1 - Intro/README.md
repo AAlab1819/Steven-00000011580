@@ -34,7 +34,7 @@ Probelm:
 http://codeforces.com/contest/988/problem/A
 
 Solution Code:
-http://codeforces.com/contest/988/submission/42334085
+http://codeforces.com/contest/988/submission/42623693 (Only change the compiler, not the code)
 
 <br>
  <p align="justify">
