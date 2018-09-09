@@ -9,8 +9,8 @@ http://codeforces.com/contest/230/problem/A
 
 Solution Code:
 http://codeforces.com/contest/230/submission/42696974
-<br>
 
+<br>
 <p align="center">291A – Spyke Talks </p>
 
  <p align="justify">
@@ -22,8 +22,8 @@ http://codeforces.com/contest/291/problem/A
 
 Solution Code:
 http://codeforces.com/contest/291/submission/42680560
-<br>
 
+<br>
 <p align="center">768A – Oath of the Night’s Watch</p>
 
  <p align="justify">
