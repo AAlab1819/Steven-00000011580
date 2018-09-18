@@ -5,15 +5,15 @@ I know this game, but I have no time to play it, plus I heard it is very difficu
 
 <br>
 Worst Case: O(n)
-
+<br>
 Average Case: θ(n)
-
+<br>
 Best Case: Ω(n)
 
 <br>
 Problem:
 https://codeforces.com/contest/469/problem/A
-
+<br>
 Solution Code:
 https://codeforces.com/contest/469/submission/43019993
 
@@ -25,15 +25,15 @@ Insomnia means difficulty to fall asleep, and to be honest I too sometime have i
 
 <br>
 Worst Case: O(n)
-
+<br>
 Average Case: θ(n)
-
+<br>
 Best Case: Ω(1)
 
 <br>
 Problem:
 https://codeforces.com/contest/148/problem/A
-
+<br>
 Solution Code:
 https://codeforces.com/contest/148/submission/43039308
 
@@ -45,14 +45,14 @@ For this problem, we need to find the minimum radius of lantern to light the who
 
 <br>
 Worst Case: O(n log n)
-
+<br>
 Average Case: θ(n log n)
-
+<br>
 Best Case: Ω(n)
 
 <br>
 Problem:
 https://codeforces.com/contest/492/problem/B
-
+<br>
 Solution Code:
 https://codeforces.com/contest/492/submission/43042280
