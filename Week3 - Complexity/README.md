@@ -9,7 +9,7 @@ Average Case: θ(n)
 
 Best Case: Ω(n)
 
-
+<br>
 Problem:
 https://codeforces.com/contest/469/problem/A
 
@@ -28,6 +28,7 @@ Average Case: θ(n)
 
 Best Case: Ω(1)
 
+<br>
 Problem:
 https://codeforces.com/contest/148/problem/A
 
@@ -46,6 +47,7 @@ Average Case: θ(n log n)
 
 Best Case: Ω(n)
 
+<br>
 Problem:
 https://codeforces.com/contest/492/problem/B
 
