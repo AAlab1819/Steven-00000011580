@@ -1,7 +1,9 @@
 Buttons
 
 For this problem, we have to help Manao to open a lock. In order to open the lock, he has to guess the order of numbers in each lock; which number is the first, the next one, and so on. The kicker is: if he fails to guess the next number, the lock’s number will reset; that means he has to start over from the very beginning. The logic here is: we have to count the worst possibilities that he has to guess all the buttons to open the lock. For the code, it is pretty simple.  First input the lock’s number (how many number in the lock). After that, the code will count the each possibilities of him finally getting the right order (using ‘for’ function). Then, print the output (worst possibilities).
+
 Best case: O (1)
+
 Worst case: O (n)
 
 Problem: http://codeforces.com/contest/598/problem/D
