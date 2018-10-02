@@ -3,7 +3,7 @@
 <p align="justify">
 For this problem, we want to throw a party of a company. In this company, there are a lot of different ranks, such as the manager, and the lowest is the ordinary employee. One manager, can have a lot of underling or employee, and each underling can have more underling or employee. For the party, we want to create a group without any superiority in it. For the optimal solution, we will divide the group according to the same position, for example: Superior employee A is with superior employee B, and the lowest employee C is with the lowest employee D; with this, everyone in the group will have the same rank; no superiority. For the code, we first input the number of employee (n). After that, we input the number and store it in an array. Using a complex function, we are able to find the optimal number of group created based on the input (ans). In the end, print the input and the code will stop.
 
-Complexity: O(n2)
+Complexity: O(n^2)
 
 Problem: http://codeforces.com/problemset/problem/115/A
 
