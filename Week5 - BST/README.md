@@ -14,7 +14,7 @@ Solution Code: http://codeforces.com/contest/115/submission/43651542
 <p align="justify">
 For this problem, we are going to notice which username is new and which username is already taken from the database. For example, I, as a new user, want to register. So, I put my username as “Steven” and it is accepted in the database. However, there is also another Steven from another country who wants to register as well. As the system must differentiate two Steven, the second user with the name Steven has his username added “1” in the end, so it becomes “Steven1”. If there is another person who wants to create another account with Steven again, it will be named “Steven2”, and so on. However, if the username is not Steven, Jason for example, it will be accepted as a new user. For the code, we first enter the number of user (n) we want to register. Then, we input the user one by one. If the user has the same name, it will be added a number (a). In the end, the code will notice which one is new and which one is already used and print the said username (that’s stored within an array).
 
-Complexity: O(nlogn)
+Complexity: O(n log n)
 
 Problem: http://codeforces.com/problemset/problem/4/C
 
