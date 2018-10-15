@@ -15,7 +15,9 @@ Solution Code: In the repository, under the name of ‘heap.cpp’
 <p align="justify">
 Unlike the previous problem, this website works normally. Roy wants to create a social media, similar to Facebook. He wants to create an algorithm for the topic discussed in his social media. A topic consists of the old score, but it can be increased. If the topic in social media is posted, the score is increased by 50; liking the post will give it 5; commenting give 10; and sharing give 20. He wants to sort top five trending topic based on the change of the score. Here is a table of the changed score based on the example:
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25146223/46933773-aa37ae80-d07f-11e8-8958-c51cd80d0231.jpg">
+</p>
 
 <p align="justify">
 From the table we can conclude that post with ID No 1003, 1002, 1001, and 999 has the highest change in score. Then, ID No 1007 is the highest ID from all 50 point change. Furthermore, this example only gave us the ‘Post’ input, while other input is zero. In my honest opinion, this is not a good example, but who am I to blame. ¯\_(ツ)_/¯
