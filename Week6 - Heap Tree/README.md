@@ -5,6 +5,8 @@ For this weekly submission, we don’t take Codeforces’ problem. We take one q
 
 <p align="justify">
 For some odd reason, when opening the website, it gives ‘the site can’t be reached’. Sometime, I can open the website no problem. Could it be that some routers block the website? What is the motivation of blocking a coding site? Anyway, enough with the chit-chat, we are tasked to count the median of the dataset. The twist is, we must count the median every time n is added by 1. For example, I input n=4, then the dataset are {1, 2, 3, and 4}. The first median is 1, because there is only 1. The second median is between 1 and 2, and to get the median when it is even, we need to add the before the middle number and after the middle number and divide them by 2; so we get 1.5. The third median is 2, because when it is odd, we can already tell the median by knowing the middle number. Between {1, 2, and 3}, the middle number is 2. The fourth one uses the same trick like the second median, add them and divide them by 2. For the code, we are using heap tree; we push, we pop, but most importantly it works. It is similar to stack in data structure when we are using pop() and push().
+  
+Complexity: O(n log n)
 
 Problem: https://www.hackerrank.com/challenges/ctci-find-the-running-median/problem
 
@@ -24,6 +26,8 @@ From the table we can conclude that post with ID No 1003, 1002, 1001, and 999 ha
 
 <p align="justify">
 For the code, we firstly input the number of ID. After that, we input the ID followed by the initial score, the amount of post, like, comment, and share. Then, the code stores the input in an array and use queue to push the top five (also print it) and pop the others.
+  
+Complexity: O(n log n)
 
 Problem: https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/roy-and-trending-topics-1/
 
