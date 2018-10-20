@@ -12,7 +12,7 @@ In the code, we first input the number of the set n or a. Then, we input the dat
 
 Problem: http://codeforces.com/problemset/problem/946/A/
 
-Solution Code:
+Solution Code: http://codeforces.com/contest/946/submission/44591110
 
 <p align="center">978 B – File Name</p>
 
@@ -26,7 +26,7 @@ In the code, we first enter the amount of letter in the filename, and then input
 
 Problem: http://codeforces.com/problemset/problem/978/B
 
-Solution Code:
+Solution Code: http://codeforces.com/contest/978/submission/44591056
 
 <p align="center">731 B – Coupons and Discounts</p>
 
@@ -37,4 +37,4 @@ Pizza! Now this problem is making me hungry. Anyway, pizza is delicious. I mean,
 
 Problem: http://codeforces.com/problemset/problem/731/B
 
-Solution Code:
+Solution Code: http://codeforces.com/contest/731/submission/44591033
