@@ -10,7 +10,7 @@ tl;dr: This problem wants you to sum the amount of input even though it is minus
 <p align="justify">
 In the code, we first input the number of the set n or a. Then, we input the data set (x). From there, the code will determine the group. Using the function “if (x>0)” we can see that it is group B, else it is group C. In group B, the code adds the number as usual; in group C, we minus the number, so it will become positive in the end. The total of sum (sum) will be printed in the end.
 
-Complexity:O(n)
+Complexity: O(n)
 
 Problem: http://codeforces.com/problemset/problem/946/A/
 
@@ -26,7 +26,7 @@ tl;dr: This problem wants you to count the amount of ‘xxx’ in the string.  (
 <p align="justify">
 In the code, we first enter the amount of letter in the filename, and then input the name of the file. After that, the code will check the string using an array for possible three ‘x’s using ‘for’ and ‘if’ function. If they found three ‘x’s in the file name, then the output is added (ans++). In the end of the ‘for’ function, we then print the total possible x (ans).
 
-Complexity:O(n)
+Complexity: O(n)
 
 Problem: http://codeforces.com/problemset/problem/978/B
 
@@ -39,7 +39,7 @@ Solution Code: http://codeforces.com/contest/978/submission/44591056
 <p align="justify">
 Pizza! Now this problem is making me hungry. Anyway, pizza is delicious. I mean, the problem wants us to count how many pizzas can be purchased for the teams, which consist of a students. Sereja, the coach, wants to buy pizza using the coupons and discounts he has. However, in order to do that, he has to count how many coupons and discounts needed for all students, not less nor more. For the code, we want to input the training session first. Then, the second input consists of the number of teams that will get the pizza. After given all the input, the code will count the amount of the pizza is enough for the team. If it is, print “YES”, else print “NO”.
 
-Complexity:O(n^2)
+Complexity: O(n^2)
 
 Problem: http://codeforces.com/problemset/problem/731/B
 
