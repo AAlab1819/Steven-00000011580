@@ -30,7 +30,7 @@ Solution Code:
 
 <p align="center">731 B – Coupons and Discounts</p>
 
-🍕 😋
+<p align="center">🍕 😋</p>
 
 <p align="justify">
 Pizza! Now this problem is making me hungry. Anyway, pizza is delicious. I mean, the problem wants us to count how many pizzas can be purchased for the teams, which consist of a students. Sereja, the coach, wants to buy pizza using the coupons and discounts he has. However, in order to do that, he has to count how many coupons and discounts needed for all students, not less nor more. For the code, we want to input the training session first. Then, the second input consists of the number of teams that will get the pizza. After given all the input, the code will count the amount of the pizza is enough for the team. If it is, print “YES”, else print “NO”.
