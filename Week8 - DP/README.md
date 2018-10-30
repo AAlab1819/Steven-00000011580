@@ -12,7 +12,7 @@ Solution Code:
 <p align="center">913 C - Party Lemonade</p>
 
 <p align="justify">
-This one is better, more understandable. From what I got, we need to count how many money (ruble, Russian currency) was needed to buy lemonade for the party. The twist is, each bottle has different volume of lemonade with different cost. So, you have to determine which specific bottle must be brought <strike>for Mother Russia</strike>. For the code, we first input the number of types in bottle (n), and the lemonade required (sum). After that we input the cost of each bottle, which will be stored inside an array (a[i]). After that, the code will count the minimum amount of ruble needed (res) to buy all required bottle.
+This one is better, more understandable. From what I got, we need to count how many money (ruble, Russian currency) was needed to buy lemonade for the party. The twist is, each bottle has different volume of lemonade with different cost. So, you have to determine which specific bottle must be brought <strike>for Mother Russia</strike>. For the code, we first input the number of types in bottle (n), and the total lemonade required for the party(sum). After that we input the cost of each bottle, which will be stored inside an array (a[i]). After that, the code will count the minimum amount of ruble needed (res) to buy all required bottle.
 
 Complexity: O(n)
 
