@@ -7,7 +7,7 @@ Complexity: O(n log n)
 
 Problem: http://codeforces.com/problemset/problem/433/B
 
-Solution Code: 
+Solution Code: http://codeforces.com/contest/433/submission/45105183
 
 <p align="center">913 C - Party Lemonade</p>
 
@@ -18,5 +18,5 @@ Complexity: O(n)
 
 Problem: http://codeforces.com/problemset/problem/913/C
 
-Solution Code:
+Solution Code: http://codeforces.com/contest/913/submission/45105187
 
