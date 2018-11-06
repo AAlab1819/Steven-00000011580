@@ -1,5 +1,5 @@
 <p align="justify">
-For this assignment, we are given two problems from: “UVa Online Judge” (https://uva.onlinejudge.org/index.php). However, thanks to my classmate, Kevin Jonathan, we only need to do one problem from the two problems given. The problem that he has done is titled ‘147 – Dollars’ and now we only need to do problem ‘10130 – SuperSale’. Without further due, let’s solve the problem! (╯✧▽✧)╯.｡.:*☆
+For this assignment, we are given two problems from: “UVa Online Judge” (https://uva.onlinejudge.org/index.php). However, thanks to my classmate, Kevin Jonathan, we only need to do one problem from the two problems given. The problem that he has done is titled ‘UVa 147 – Dollars’ and now we only need to do problem ‘UVa 10130 – SuperSale’. Without further due, let’s solve the problem! (╯✧▽✧)╯.｡.:*☆
 
 <p align="center">UVa 10130 – Super Sale</p>
 
