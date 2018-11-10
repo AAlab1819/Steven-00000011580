@@ -14,7 +14,7 @@ Complexity: O(n log n)
 
 Problem: http://codeforces.com/problemset/problem/601/A
 
-Solution Code:
+Solution Code: http://codeforces.com/contest/601/submission/45513895
 
 <p align="center">20 C - Dijkstra?</p>
 
@@ -25,4 +25,4 @@ Complexity: O(n log n)
 
 Problem: http://codeforces.com/problemset/problem/20/C
 
-Solution Code:
+Solution Code: http://codeforces.com/contest/20/submission/45513882
