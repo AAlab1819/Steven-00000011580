@@ -3,7 +3,7 @@ We are back using Codeforces again. Umm, okay…
 <p align="center">
 <img width="100" height="100" src="https://user-images.githubusercontent.com/25146223/48302430-5f4e7100-e52f-11e8-9a1c-f41e617429a3.jpg">
 
-For this week’s topic: ‘The Shortest Path’, with the following problem:
+For this week’s topic: ‘The Shortest Path’, with the following problems:
 
 <p align="center">601 A – The Two Routes</p>
 
